@@ -82,17 +82,17 @@ body {
     margin-top: 1rem;
 }
 .app-download {
-    height: 3rem;
-    width: 10rem;
+    height: 3.5rem;
+    width: 13rem;
     background-size: cover;
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./imgs/Apple-button.png');
+    background-image: url('../imgs/Apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./imgs/GooglePlay-button.png');
+    background-image: url('../imgs/GooglePlay-button.png');
 }
 .not-account {
     color: rgb(160, 160, 160);
